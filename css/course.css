@@ -1,0 +1,132 @@
+/*
+Template Name:Ultra Education Zone
+File: Layout CSS
+Author: Templates On Web
+Author URI: http://templateonweb.com/
+Licence: <a href="http://www.templateonweb.com/terms.php?v=content&contentid=152">Website Template Licence</a>
+*/
+/*********************course****************/
+.center_course{
+  background-image: url(../img/47.jpg);
+  }
+/*********************course_end****************/
+/*********************Categories****************/
+#Categories{
+ background-image: url(../img/22.jpg);  
+   }
+.Categories_m{
+background:#f4f4f4f7;
+padding-top:20px;
+padding-bottom:60px;   
+   }
+.Categories_2{
+ background:#fff;
+ padding:40px 10px 20px 10px;
+ margin-top:40px;
+ }
+.Categories_2 .nav li{
+display:inline-table; 
+ }
+
+.Categories_2 .nav li a{
+border:1px solid #eee;
+border-radius:30px;
+background:#f4f4f4;
+ }
+.Categories_2 .nav li a:hover{
+  background:none;
+  }
+.Categories_2 .nav .active a{
+background: #00c5b5;
+color:#fff; 
+border-color:#00c5b5!important;  
+   }
+.Categories_2 .nav .active:hover a{
+background: #00c5b5;
+color:#fff;   
+   }
+.cat_tagi ul li{
+ display:inline-block; 
+ margin-top:10px;
+ margin-right:5px;
+  }
+.cat_tagi ul li a{
+background:#f4f4f4;
+color:#00c5b5;
+width:50px;
+height:50px;
+display:block;
+text-align:center;
+border-radius:50%;
+line-height:50px;
+  }
+.cat_tagi ul li a:hover{
+  background:#00c5b5;
+  color:#fff; 
+   }
+.cat_tagi h4 a{
+color:#666;
+  }
+.cat_tagi h4{
+margin-top:20px;
+  }
+.cat_tagi h4 a i{
+color:#000;
+margin-right:5px;
+  }
+.cat_tagii h5 a{
+background:#00c5b5;
+padding:10px 30px;
+display:inline-block;
+border-radius:30px;
+font-size:20px;
+color:#fff;
+  }
+.cat_tagii{
+ position:absolute; 
+ top:45%;
+ right:3%;
+  }
+.cat_tag{
+position:relative;  
+  }
+.c_tagm{
+margin-top:30px; 
+ }
+/*********************Categories_end****************/
+
+
+@media screen and (max-width : 767px){
+.Categories_2 .nav li{
+margin-top:5px;  
+  }
+#Categories{
+ text-align:center; 
+  }
+.cat_tagii{
+top:1%;  
+  }
+.cat_tagi{
+ text-align:center; 
+ margin-bottom:15px;  
+  }
+.pagination>li{
+display:inline-block;
+margin-bottom:5px;  
+  }
+}
+
+@media (min-width:768px) and (max-width:991px) {
+.cat_tagi h3{
+ font-size:20px; 
+  }
+ }
+ @media (min-width:992px) and (max-width:1200px) {
+
+ }
+@media (min-width:1201px) and (max-width:1325px) {
+
+ }
+
+
+

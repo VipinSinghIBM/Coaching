@@ -1,0 +1,188 @@
+/*
+Template Name:Ultra Education Zone
+File: Layout CSS
+Author: Templates On Web
+Author URI: http://templateonweb.com/
+Licence: <a href="http://www.templateonweb.com/terms.php?v=content&contentid=152">Website Template Licence</a>
+*/
+/*********************contact****************/
+.center_contact{
+  background-image: url(../img/2.jpg);
+  }
+  
+.blog_detail_1l8i1 .form-control{
+ border:none;
+ background:none;
+ margin-left:5px;
+ box-shadow:none;
+  width:95%;
+  padding:0;
+  height:auto;
+  padding-left:10px;
+  }
+.blog_detail_1l8i1 label{
+  float:left;
+  }
+.blog_detail_1l8i1{
+background:#fafafa;
+margin-top:10px;
+padding:20px 15px;
+border-radius:30px; 
+  }
+.form_1{
+height:100px!important;  
+  }
+
+#contact{
+ padding-top:50px;
+ padding-bottom:50px;
+  } 
+.blog_detail_1l8i h1 {
+ margin-bottom:20px; 
+  }
+.contact_2{
+ margin-top:40px; 
+  }
+.contact_2il .icon_fb{
+ background:#0632b0;
+ width:60px;
+ height:60px;
+ display:inline-block;
+ text-align:center;
+ line-height:60px;
+ font-size:24px;
+ border-radius:50%;
+ float:left;
+ margin-right:15px; 
+  }
+.contact_2il .icon_fb a{
+ color:#fff;
+ display:block; 
+  }
+.contact_2il h3{
+font-size:34px; 
+margin-top:-10px!important; 
+  }
+.contact_2il h3 .icon_text{
+ color:#999;
+ font-size:16px; 
+  }
+.contact_2ir h4 a{
+ color:#00c5b5; 
+  }
+.contact_2ir h4 a:hover{
+ color:#000; 
+  }
+.contact_2ir h4 a i{
+margin-left:5px; 
+  }
+.contact_2i1{
+ margin-top:10px; 
+  }
+.contact_2im{
+background:#fafafa; 
+padding:50px 20px;
+border-top: 7px solid #0632b0;
+border-radius:0px 0px 10px 10px;
+  }
+.contact_2il .icon_fb{
+background:#0093d7;  
+  }
+.contact_2im_1clearfix{
+border-top: 7px solid #0093d7; 
+  }
+.contact_3{
+margin-top:30px;  
+  }
+/*********************contact_end****************/
+
+/*********************connect****************/
+#connect{
+  background:#00c5b5; 
+  padding-top:40px;
+  padding-bottom:25px;
+  }
+.connect_1m{
+  display:flex;
+  }
+.connect_1l span{
+ font-size:70px;
+ color:#fff; 
+ margin-right:15px;
+  }
+.connect_1r h3{
+ color:#fff; 
+ margin-top:20px;
+  }
+.connect_1r p{
+ color:#efefef; 
+  }
+/*********************connect_end****************/
+
+@media screen and (max-width : 767px){
+.blog_detail_1l8i  {
+ text-align:center; 
+  }
+.blog_detail_1l8i1 .form-control{
+ width:92%; 
+  }
+.contact_1r {
+ margin-top:15px; 
+  }
+.contact_2il .icon_fb{
+float:none;
+ }
+.contact_2i {
+  text-align:center; 
+  }
+.contact_2i1{
+ text-align:center;  
+  }
+.contact_2im {
+margin-bottom:10px; 
+ }
+.connect_1m{
+ display:block; 
+  }
+#connect{
+ text-align:center; 
+  }
+.connect_1r h3{
+margin-top:0;  
+  }
+}
+
+@media (min-width:768px) and (max-width:991px) {
+.blog_detail_1l8i1 .form-control{
+width:91%;  
+  }
+.contact_2il h3 .icon_text{
+ font-size:12px; 
+  }
+.contact_2il .icon_fb{
+margin-right:10px; 
+ }
+.contact_2il h3{
+ font-size:22px; 
+  }
+.contact_2il .icon_fb{
+width:40px;
+height:40px;
+line-height:40px;
+font-size:20px; 
+ }
+ }
+ @media (min-width:992px) and (max-width:1200px) {
+.blog_detail_1l8i1 .form-control{
+width:93%;  
+  }
+.contact_2il h3{
+ font-size:30px; 
+  }
+ }
+@media (min-width:1201px) and (max-width:1325px) {
+
+ }
+
+
+
